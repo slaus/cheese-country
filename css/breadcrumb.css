@@ -28,5 +28,12 @@
 .breadcrumb a,
 .breadcrumb span {
     color: var(--DT_Button_Text_Color);
+}
 
+.breadcrumb .breadcrumb_title {
+    text-transform: uppercase;
+}
+
+section .breadcrumb {
+    margin-bottom: 50px;
 }

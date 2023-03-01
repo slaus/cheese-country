@@ -10,6 +10,15 @@
     padding-bottom: 50px;
 }
 
+section .heading {
+    margin-bottom: 50px;
+}
+
+section .main-heading {
+    margin: 0;
+    color: var(--DTSecondaryColor);
+}
+
 .relative {
     position: relative;
 }

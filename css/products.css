@@ -16,15 +16,6 @@
     }
 }
 
-.products-section .heading {
-    margin-bottom: 50px;
-}
-
-.products-section .main-heading {
-    margin: 0;
-    color: var(--DTSecondaryColor);
-}
-
 .products-section .main-block {
     padding: 0;
 }
